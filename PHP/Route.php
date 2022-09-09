@@ -1,5 +1,7 @@
+<?
 class Route {
-    var $id;
-    var $start;
-    var $end;
+    public $id;
+    public $init = array();
+    public $end = array();
 }
+?>

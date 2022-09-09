@@ -1,3 +1,5 @@
+<?
 class Payment {
-    var $id;
+    public $id;
 }
+?>
